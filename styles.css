@@ -1,9 +1,11 @@
 body {
   margin: 0;
   padding: 0;
+  object-fit: fill;
 }
 
 iframe {
   width: auto;
   height: auto;
+  object-fit: fill;
 }
